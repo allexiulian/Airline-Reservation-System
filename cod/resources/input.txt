@@ -1,0 +1,22 @@
+SIGNUP fasiealexiulian@gmail.com Alex root1234 root1234
+SIGNUP fasiealexiulian@gmail.com Alex root1234 root1234
+LOGIN fasiealexiulian@gmail.com root1233
+LOGIN fasiealexiulian@gmail.com root1234
+LOGIN fasiealexiulian@gmail.com root1234
+ADD_FLIGHT_DETAILS 1 Bucharest Milano 2021-12-23 80
+ADD_FLIGHT_DETAILS 2 Bucharest LONDON 2021-12-13 120
+ADD_FLIGHT_DETAILS 3 Sibiu Barcelona 2021-12-15 140
+ADD_FLIGHT_DETAILS 4 Timisioara Milano 2021-12-16 90
+LOGOUT alexandru@gmail.com
+ADD_FLIGHT 1
+ADD_FLIGHT 2
+ADD_FLIGHT 10
+CANCEL_FLIGHT 2
+CANCEL_FLIGHT 12
+DELETE_FLIGHT 8
+DELETE_FLIGHT 1
+LOGOUT fasiealexiulian@gmail.com
+ADD_FLIGHT 4
+DELETE_FLIGHT 4
+PERSIST_USERS
+PERSIST_FLIGHTS
